@@ -1,0 +1,11 @@
+Name,Age,City,Salary,Experience,Department,Rating,Bonus,Project,Status
+Nischal,21,Kathmandu,50000,1,IT,4.5,5000,A,Active
+Aayush,22,Pokhara,45000,2,HR,,Not Available,B,Inactive
+Sita,Not Available,Butwal,,1,Finance,4.2,4000,C,Active
+Ram,20,Not Available,52000,Not Available,IT,Not Available,4500,Not Available,n.a.
+Hari,23,Lalitpur,Not Available,3,Not Available,3.9,n.a.,A,Not Available
+Gita,n.a.,n.a.,48000,2,Finance,n.a.,,n.a.,Active
+Suman,22,Biratnagar,n.a.,n.a.,HR,4.1,4200,B,
+Nabin,,Dharan,47000,,n.a.,4.0,4100,C,Inactive
+Rita,21,,51000,2,IT,,4300,,Active
+Kiran,24,Bhaktapur,,3,,4.3,Not Available,A,Not Available
